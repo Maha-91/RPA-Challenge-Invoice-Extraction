@@ -2,7 +2,7 @@
 RPA Challenge Invoice Extraction from Automation challenge website,writing in to csv and upload it on the same automation challenge website.
 
 
-Instructions
+Instructions:
 The goal of this challenge is to create a workflow that will read every table row and download the respective invoices.
 
 From the invoices, you will have to extract the Invoice Number, Invoice Date, Company Name and Total Due.
